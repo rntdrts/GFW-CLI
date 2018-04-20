@@ -1,0 +1,24 @@
+{
+  "name": "gfw-cli",
+  "version": "1.0.0",
+  "description": "This project aims to create a command line interface to read and filter Globe Fishing Watch files.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rntdrts/GFW-CLI.git"
+  },
+  "author": "Renato Duarte",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rntdrts/GFW-CLI/issues"
+  },
+  "homepage": "https://github.com/rntdrts/GFW-CLI#readme",
+  "dependencies": {
+    "commander": "^2.15.1",
+    "csv": "^3.0.2",
+    "inquirer": "^5.2.0"
+  }
+}
