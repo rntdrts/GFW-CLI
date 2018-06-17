@@ -4,7 +4,6 @@
   "description": "This project aims to create a command line interface to read and filter Globe Fishing Watch files.",
   "main": "index.js",
   "enableGlobal": true,
-  
   "bin": {
     "gfw": "./index.js"
   },
