@@ -1,6 +1,6 @@
 {
   "name": "gfw-cli",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "This project aims to create a command line interface to read and filter Globe Fishing Watch files.",
   "main": "index.js",
   "enableGlobal": true,
