@@ -11,3 +11,4 @@ That's all! Just don't forget to download the data (csv files) from [Global Fish
 `gfw filter --input <files directory or specific file> --output <output directory or specific file>`
 
 ### Example
+![GFW CLI USAGE](https://github.com/rntdrts/GFW-CLI/blob/assets/gfw-cli-example.png?raw=true)
