@@ -8,9 +8,13 @@ This project aims to provide a command that enables users from filtering the glo
 That's all! Just don't forget to download the data (csv files) from [Global Fishing Watch](http://globalfishingwatch.org)!
 
 ## Usage
+
 Run the following command in the console:
+
 `gfw filter --input <files directory or specific file> --output <output directory or specific file>`
+
 This is the same as (shorter):
+
 `gfw f -i <files directory or specific file> -o <output directory or specific file>`
 
 ### Example
